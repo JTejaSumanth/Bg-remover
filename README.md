@@ -64,3 +64,6 @@ Before running the application, ensure you have the following installed:
 4. Once the background removal is complete, you will see the edited image.
 
 5. Click the "Download Image" button to save the edited image to your device.
+
+### Scrrenshot
+![image](https://github.com/JTejaSumanth/Bg-remover/assets/140799555/82e81ced-9d7a-40d9-833c-afddfe8f36e8)
